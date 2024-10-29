@@ -21,13 +21,13 @@ header {
 }
 
 .chief {
-    background-image: url('../images/chef.jpg');
+    background-image: url('./images/chef.jpg');
     background-size: cover;
     background-position: center top;
 }
 
 #sns-links {
-    background-image: linear-gradient(to top, rgba(0,0,0,0.8), rgba(0,0,0,0.2)), url('../images/sns-bg.jpg');
+    background-image: linear-gradient(to top, rgba(0,0,0,0.8), rgba(0,0,0,0.2)), url('./images/sns-bg.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -46,7 +46,7 @@ header {
 }
 /*뉴스*/
 #news-links {
-    background-image: linear-gradient(to top, rgba(0,0,0,0.5), rgba(0,0,0,0.2)), url('../images/news-bg.jpg');
+    background-image: linear-gradient(to top, rgba(0,0,0,0.5), rgba(0,0,0,0.2)), url('./images/news-bg.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
